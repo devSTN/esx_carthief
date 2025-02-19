@@ -21,3 +21,4 @@ start esx_carthief
 ##
 ### Little explanation
 ![screenshot](https://i.imgur.com/maaWc4i.jpg)
+This script is for ESX car thief jobs.
